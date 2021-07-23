@@ -1,3 +1,6 @@
+![grocery](https://user-images.githubusercontent.com/68656122/126733931-56ea725c-d222-4114-aa14-827a016eaeb8.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
